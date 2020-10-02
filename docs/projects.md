@@ -3,7 +3,7 @@ id: projects
 title: Projects
 ---
 
-Here is my [resume!](../../../docs/projects/assests/myresume.pdf)
+Here is my ![resume!](./assets/myresume.png)
 
 Embed any notable projects in this page.
 
