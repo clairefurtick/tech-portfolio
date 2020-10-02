@@ -3,9 +3,7 @@ id: projects
 title: Projects
 ---
 
-Here is my ![resume!](./assests/myresume.pdf)
-
-<a href="./assets/myresume.pdf" alt=""></a>
+Here is my [resume!](./assests/myresume.pdf)
 
 Embed any notable projects in this page.
 
