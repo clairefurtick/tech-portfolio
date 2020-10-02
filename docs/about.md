@@ -3,10 +3,7 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I am Claire, a junior Computer Science major and Mathematics minor at George Washington University!
 
 1. Your current position
 1. Organizations you're involved with
