@@ -3,7 +3,7 @@ id: projects
 title: Projects
 ---
 
-Here is my [resume!](./assests/myresume.pdf)
+Here is my [resume!](./assests/'Claire Furtick Resume.pdf')
 
 <a href="./assets/myresume.pdf" alt=""></a>
 
