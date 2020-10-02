@@ -3,6 +3,10 @@ id: projects
 title: Projects
 ---
 
+Here is my [resume!](./assests/myresume.pdf)
+
+<a href="./assets/myresume.pdf" alt=""></a>
+
 Embed any notable projects in this page.
 
 For example, my favorite project would be linked and I can even embed
