@@ -3,7 +3,7 @@ id: projects
 title: Projects
 ---
 
-Here is my <a href="./assets/myresume.png" target="_blank">resume!</a>
+Here is my <a href="./assets/Resume.pdf" target="_blank">resume!</a>
 
 ## Research
 
