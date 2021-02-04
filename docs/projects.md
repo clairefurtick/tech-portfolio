@@ -22,4 +22,4 @@ One thing that I loved most about this experience was that the work that I was d
 - Created a website for managing students applications, class regitrations, and grades using PHP, HTML, CSS, and a MySQL database
 - Created a simulated weather sensor using an Arduino 
 - Implemented multithreading in the xv6 operating system
-- Implemented containers in the xv6 operatin system
+- Implemented containers in the xv6 operating system
